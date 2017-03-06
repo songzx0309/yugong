@@ -29,13 +29,13 @@
 <li><!--StartFragment-->&nbsp;instance分为三部分<br />a.&nbsp; <!--StartFragment-->extractor &nbsp;(从源数据库上提取数据，可分为全量/增量实现)<!--EndFragment--><br />b.&nbsp; <!--StartFragment-->translator &nbsp;(将源库上的数据按照目标库的需求进行自定义转化)<!--EndFragment--><br />c. &nbsp;applier<!--EndFragment-->&nbsp; (将数据更新到目标库，可分为全量/增量/对比的实现<!--EndFragment-->)</li>
 </ol>
 <h1>DevDesign</h1>
-<p>See the page for dev design: <a href="https://github.com/alibaba/yugong/wiki/DevDesign">DevDesign</a></p>
+<p>See the page for dev design: <a href="https://github.com/songzx0309/yugong/wiki/DevDesign">DevDesign</a></p>
 <h1>QuickStart</h1>
-<p>See the page for quick start: <a href="https://github.com/alibaba/yugong/wiki/QuickStart">QuickStart</a></p>
+<p>See the page for quick start: <a href="https://github.com/songzx0309/yugong/wiki/QuickStart">QuickStart</a></p>
 <h1>AdminGuide</h1>
-<p>See the page for admin deploy guide: <a href="https://github.com/alibaba/yugong/wiki/AdminGuide">AdminGuide</a></p>
+<p>See the page for admin deploy guide: <a href="https://github.com/songzx0309/yugong/wiki/AdminGuide">AdminGuide</a></p>
 <h1>Performance</h1>
-<p>See the page for yugong performance : <a href="https://github.com/alibaba/yugong/wiki/Performance">Performance</a></p>
+<p>See the page for yugong performance : <a href="https://github.com/songzx0309/yugong/wiki/Performance">Performance</a></p>
 <h1>相关资料</h1>
 <ol>
 <li>yugong简单介绍ppt : &nbsp;<a href="https://github.com/alibaba/yugong/blob/master/docs/yugong_Intro.ppt?raw=true">ppt</a></li>
